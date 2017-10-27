@@ -34,7 +34,7 @@ switch:
 
 Configuration variables:
 
-- **host** (*Required*): The IP address of your D-Link plug, eg. http://192.168.1.32
+- **host** (*Required*): The IP address of your D-Link plug, eg. 192.168.1.32 ( DO NOT use http://....)
 - **name** (*Optional*): The name to use when displaying this switch.
 - **username** (*Required*): The username for your plug. Defaults to `admin`.
 - **password** (*Required*): The password for your plug. Default password is the `PIN` included on the configuration card.
